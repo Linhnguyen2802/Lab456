@@ -274,3 +274,4 @@ C:\Users\Administrator\Source\Repos\Lab456\BigSchool\BigSchool\bin\System.Web.Ht
 C:\Users\Administrator\Source\Repos\Lab456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
 C:\Users\Administrator\Source\Repos\Lab456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
 C:\Users\Administrator\Source\Repos\Lab456\BigSchool\BigSchool\obj\Debug\BigSchool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Lab456\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
