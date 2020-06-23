@@ -12,6 +12,7 @@ using BigSchool.Models;
 
 namespace BigSchool.Controllers
 {
+
     [Authorize]
     public class AccountController : Controller
     {
